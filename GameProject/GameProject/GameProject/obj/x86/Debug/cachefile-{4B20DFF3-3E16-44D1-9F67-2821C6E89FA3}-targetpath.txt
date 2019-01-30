@@ -1,0 +1,17 @@
+Content\Arial20.xnb
+Content\LoseGame.xnb
+Content\MainMenu.xnb
+Content\Selected.xnb
+Content\burger.xnb
+Content\explosion.xnb
+Content\frenchfries.xnb
+Content\teddybear.xnb
+Content\teddybearprojectile.xnb
+Content\GameThumbnail.xnb
+Content\health-icon.xnb
+Content\sounds\BurgerDamage.xnb
+Content\sounds\BurgerDeath.xnb
+Content\sounds\BurgerShot.xnb
+Content\sounds\Explosion.xnb
+Content\sounds\TeddyBounce.xnb
+Content\sounds\TeddyShot.xnb

@@ -1,0 +1,5 @@
+E:\games\GameProject\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe
+E:\games\GameProject\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.pdb
+E:\games\GameProject\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\games\GameProject\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
+E:\games\GameProject\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb

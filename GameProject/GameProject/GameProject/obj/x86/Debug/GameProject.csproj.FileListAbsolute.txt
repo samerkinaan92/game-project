@@ -1,0 +1,88 @@
+E:\Visual Studio 2010\Projects\GameProject\GameProject\GameProject\bin\x86\Debug\GameProject.exe
+E:\Visual Studio 2010\Projects\GameProject\GameProject\GameProject\bin\x86\Debug\GameProject.pdb
+E:\Visual Studio 2010\Projects\GameProject\GameProject\GameProject\obj\x86\Debug\GameProject.csprojResolveAssemblyReference.cache
+E:\Visual Studio 2010\Projects\GameProject\GameProject\GameProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Visual Studio 2010\Projects\GameProject\GameProject\GameProject\obj\x86\Debug\GameProject.exe
+E:\Visual Studio 2010\Projects\GameProject\GameProject\GameProject\obj\x86\Debug\GameProject.pdb
+E:\Visual Studio 2010\Projects\GameProject\GameProject\GameProject\bin\x86\Debug\Content\Arial20.xnb
+E:\Visual Studio 2010\Projects\GameProject\GameProject\GameProject\bin\x86\Debug\Content\burger.xnb
+E:\Visual Studio 2010\Projects\GameProject\GameProject\GameProject\bin\x86\Debug\Content\explosion.xnb
+E:\Visual Studio 2010\Projects\GameProject\GameProject\GameProject\bin\x86\Debug\Content\frenchfries.xnb
+E:\Visual Studio 2010\Projects\GameProject\GameProject\GameProject\bin\x86\Debug\Content\teddybear.xnb
+E:\Visual Studio 2010\Projects\GameProject\GameProject\GameProject\bin\x86\Debug\Content\teddybearprojectile.xnb
+E:\Visual Studio 2010\Projects\GameProject\GameProject\GameProject\bin\x86\Debug\Content\sounds\BurgerDamage.xnb
+E:\Visual Studio 2010\Projects\GameProject\GameProject\GameProject\bin\x86\Debug\Content\sounds\BurgerDeath.xnb
+E:\Visual Studio 2010\Projects\GameProject\GameProject\GameProject\bin\x86\Debug\Content\sounds\BurgerShot.xnb
+E:\Visual Studio 2010\Projects\GameProject\GameProject\GameProject\bin\x86\Debug\Content\sounds\Explosion.xnb
+E:\Visual Studio 2010\Projects\GameProject\GameProject\GameProject\bin\x86\Debug\Content\sounds\TeddyBounce.xnb
+E:\Visual Studio 2010\Projects\GameProject\GameProject\GameProject\bin\x86\Debug\Content\sounds\TeddyShot.xnb
+E:\Visual Studio 2010\Projects\GameProject\GameProject\GameProject\bin\x86\Debug\Content\GameThumbnail.xnb
+E:\games\GameProject\GameProject\GameProject\bin\x86\Debug\Content\Arial20.xnb
+E:\games\GameProject\GameProject\GameProject\bin\x86\Debug\Content\burger.xnb
+E:\games\GameProject\GameProject\GameProject\bin\x86\Debug\Content\explosion.xnb
+E:\games\GameProject\GameProject\GameProject\bin\x86\Debug\Content\frenchfries.xnb
+E:\games\GameProject\GameProject\GameProject\bin\x86\Debug\Content\teddybear.xnb
+E:\games\GameProject\GameProject\GameProject\bin\x86\Debug\Content\teddybearprojectile.xnb
+E:\games\GameProject\GameProject\GameProject\bin\x86\Debug\Content\GameThumbnail.xnb
+E:\games\GameProject\GameProject\GameProject\bin\x86\Debug\Content\sounds\BurgerDamage.xnb
+E:\games\GameProject\GameProject\GameProject\bin\x86\Debug\Content\sounds\BurgerDeath.xnb
+E:\games\GameProject\GameProject\GameProject\bin\x86\Debug\Content\sounds\BurgerShot.xnb
+E:\games\GameProject\GameProject\GameProject\bin\x86\Debug\Content\sounds\Explosion.xnb
+E:\games\GameProject\GameProject\GameProject\bin\x86\Debug\Content\sounds\TeddyBounce.xnb
+E:\games\GameProject\GameProject\GameProject\bin\x86\Debug\Content\sounds\TeddyShot.xnb
+E:\games\GameProject\GameProject\GameProject\bin\x86\Debug\GameProject.exe
+E:\games\GameProject\GameProject\GameProject\bin\x86\Debug\GameProject.pdb
+E:\games\GameProject\GameProject\GameProject\obj\x86\Debug\GameProject.csprojResolveAssemblyReference.cache
+E:\games\GameProject\GameProject\GameProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\games\GameProject\GameProject\GameProject\obj\x86\Debug\GameProject.exe
+E:\games\GameProject\GameProject\GameProject\obj\x86\Debug\GameProject.pdb
+E:\games\GameProject\GameProject\GameProject\bin\x86\Debug\Content\health-icon.xnb
+E:\games\GameProject\GameProject\GameProject\bin\x86\Debug\Content\LoseGame.xnb
+E:\games\GameProject\GameProject\GameProject\bin\x86\Debug\Content\MainMenu.xnb
+E:\games\GameProject\GameProject\GameProject\bin\x86\Debug\Content\Selected.xnb
+D:\game\GameProject\GameProject\GameProject\bin\x86\Debug\Content\Arial20.xnb
+D:\game\GameProject\GameProject\GameProject\bin\x86\Debug\Content\LoseGame.xnb
+D:\game\GameProject\GameProject\GameProject\bin\x86\Debug\Content\MainMenu.xnb
+D:\game\GameProject\GameProject\GameProject\bin\x86\Debug\Content\Selected.xnb
+D:\game\GameProject\GameProject\GameProject\bin\x86\Debug\Content\burger.xnb
+D:\game\GameProject\GameProject\GameProject\bin\x86\Debug\Content\explosion.xnb
+D:\game\GameProject\GameProject\GameProject\bin\x86\Debug\Content\frenchfries.xnb
+D:\game\GameProject\GameProject\GameProject\bin\x86\Debug\Content\teddybear.xnb
+D:\game\GameProject\GameProject\GameProject\bin\x86\Debug\Content\teddybearprojectile.xnb
+D:\game\GameProject\GameProject\GameProject\bin\x86\Debug\Content\GameThumbnail.xnb
+D:\game\GameProject\GameProject\GameProject\bin\x86\Debug\Content\health-icon.xnb
+D:\game\GameProject\GameProject\GameProject\bin\x86\Debug\Content\sounds\BurgerDamage.xnb
+D:\game\GameProject\GameProject\GameProject\bin\x86\Debug\Content\sounds\BurgerDeath.xnb
+D:\game\GameProject\GameProject\GameProject\bin\x86\Debug\Content\sounds\BurgerShot.xnb
+D:\game\GameProject\GameProject\GameProject\bin\x86\Debug\Content\sounds\Explosion.xnb
+D:\game\GameProject\GameProject\GameProject\bin\x86\Debug\Content\sounds\TeddyBounce.xnb
+D:\game\GameProject\GameProject\GameProject\bin\x86\Debug\Content\sounds\TeddyShot.xnb
+D:\game\GameProject\GameProject\GameProject\bin\x86\Debug\GameProject.exe
+D:\game\GameProject\GameProject\GameProject\bin\x86\Debug\GameProject.pdb
+D:\game\GameProject\GameProject\GameProject\obj\x86\Debug\GameProject.csprojResolveAssemblyReference.cache
+D:\game\GameProject\GameProject\GameProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\game\GameProject\GameProject\GameProject\obj\x86\Debug\GameProject.exe
+D:\game\GameProject\GameProject\GameProject\obj\x86\Debug\GameProject.pdb
+E:\game\GameProject\GameProject\GameProject\bin\x86\Debug\Content\Arial20.xnb
+E:\game\GameProject\GameProject\GameProject\bin\x86\Debug\Content\LoseGame.xnb
+E:\game\GameProject\GameProject\GameProject\bin\x86\Debug\Content\MainMenu.xnb
+E:\game\GameProject\GameProject\GameProject\bin\x86\Debug\Content\Selected.xnb
+E:\game\GameProject\GameProject\GameProject\bin\x86\Debug\Content\burger.xnb
+E:\game\GameProject\GameProject\GameProject\bin\x86\Debug\Content\explosion.xnb
+E:\game\GameProject\GameProject\GameProject\bin\x86\Debug\Content\frenchfries.xnb
+E:\game\GameProject\GameProject\GameProject\bin\x86\Debug\Content\teddybear.xnb
+E:\game\GameProject\GameProject\GameProject\bin\x86\Debug\Content\teddybearprojectile.xnb
+E:\game\GameProject\GameProject\GameProject\bin\x86\Debug\Content\GameThumbnail.xnb
+E:\game\GameProject\GameProject\GameProject\bin\x86\Debug\Content\health-icon.xnb
+E:\game\GameProject\GameProject\GameProject\bin\x86\Debug\Content\sounds\BurgerDamage.xnb
+E:\game\GameProject\GameProject\GameProject\bin\x86\Debug\Content\sounds\BurgerDeath.xnb
+E:\game\GameProject\GameProject\GameProject\bin\x86\Debug\Content\sounds\BurgerShot.xnb
+E:\game\GameProject\GameProject\GameProject\bin\x86\Debug\Content\sounds\Explosion.xnb
+E:\game\GameProject\GameProject\GameProject\bin\x86\Debug\Content\sounds\TeddyBounce.xnb
+E:\game\GameProject\GameProject\GameProject\bin\x86\Debug\Content\sounds\TeddyShot.xnb
+E:\game\GameProject\GameProject\GameProject\bin\x86\Debug\GameProject.exe
+E:\game\GameProject\GameProject\GameProject\bin\x86\Debug\GameProject.pdb
+E:\game\GameProject\GameProject\GameProject\obj\x86\Debug\GameProject.csprojResolveAssemblyReference.cache
+E:\game\GameProject\GameProject\GameProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\game\GameProject\GameProject\GameProject\obj\x86\Debug\GameProject.exe
+E:\game\GameProject\GameProject\GameProject\obj\x86\Debug\GameProject.pdb
